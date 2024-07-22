@@ -167,7 +167,9 @@ Al finalizar el laboratorio el estudiante desarrollará las siguientes competenc
 ## Grabaciones de Clases
 
 **Laboratorio Clase 1 - 18 Julio 2024**
+
 ***Introducción y presentación***
+
 En esta clase introductoria se impartieron recomendaciones de como trabajar el laboratorio a lo largo del semestre, así como los temas y herramientas planificadas. Asímismo, el auxiliar se presentó a los estudiantes y se facilitaron las vías de comunicación.
 
 Archivo: [https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link](https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link)
