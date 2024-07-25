@@ -174,6 +174,7 @@ En esta clase introductoria se impartieron recomendaciones de como trabajar el l
 
 Archivo: [https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link](https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link)
 
+**Laboratorio Clase 2 - 25 Julio 2024**
 
 ***Programación Orientada a Objetos en Python***
 
