@@ -173,3 +173,10 @@ Al finalizar el laboratorio el estudiante desarrollará las siguientes competenc
 En esta clase introductoria se impartieron recomendaciones de como trabajar el laboratorio a lo largo del semestre, así como los temas y herramientas planificadas. Asímismo, el auxiliar se presentó a los estudiantes y se facilitaron las vías de comunicación.
 
 Archivo: [https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link](https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link)
+
+
+***Programación Orientada a Objetos en Python***
+
+En esta clase introductoria se impartio contenido referente a la Programación Orientada a Objetos en Python, así como recomendaciones y convenciones. tales como el uso de Getters, Setters para el encapsulamiento.
+
+Archivo: [https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view=?usp=drive_link](https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view=?usp=drive_link)
