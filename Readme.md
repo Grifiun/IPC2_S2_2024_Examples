@@ -179,4 +179,4 @@ Archivo: [https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view
 
 En esta clase introductoria se impartio contenido referente a la Programación Orientada a Objetos en Python, así como recomendaciones y convenciones. tales como el uso de Getters, Setters para el encapsulamiento.
 
-Archivo: [https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view=?usp=drive_link](https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view=?usp=drive_link)
+Archivo: [https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view?usp=drive_link](https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view?usp=drive_link)
