@@ -181,3 +181,17 @@ Archivo: [https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view
 En esta clase introductoria se impartio contenido referente a la Programación Orientada a Objetos en Python, así como recomendaciones y convenciones. tales como el uso de Getters, Setters para el encapsulamiento.
 
 Archivo: [https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view?usp=drive_link](https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view?usp=drive_link)
+
+
+**Laboratorio Clase 3 - 1 Agosto 2024**
+
+***Git workflow***
+
+En esta clase se explicó en primera instancia conceptos básicos de git, así como comandos y finalmente un ejemplo de uso de:
+- Creación de ramas.
+- Cambio entre ramas.
+- Fusión de cambios de una rama feature a una rama base (develop).
+- Pull request de una rama secundaria a otra principal (de develop a main).
+- Hacer un release desde github con etiqueta de versión.
+
+Archivo: [https://drive.google.com/file/d/18BCHm0KKHbQz9z4_v1aY1vczTga1oWgo/view?usp=drive_link](https://drive.google.com/file/d/18BCHm0KKHbQz9z4_v1aY1vczTga1oWgo/view?usp=drive_link)
