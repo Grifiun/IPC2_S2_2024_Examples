@@ -172,7 +172,7 @@ Al finalizar el laboratorio el estudiante desarrollará las siguientes competenc
 
 En esta clase introductoria se impartieron recomendaciones de como trabajar el laboratorio a lo largo del semestre, así como los temas y herramientas planificadas. Asímismo, el auxiliar se presentó a los estudiantes y se facilitaron las vías de comunicación.
 
-[Presentación: Laboratorio Clase 1 - 18 Julio 2024](Presentaciones\IPC2%20S2%202024%20-%20Laboratorio%20Clase%201%20-%2018%20Julio%202024.pdf)
+[Presentación: Laboratorio Clase 1 - 18 Julio 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%201%20-%2018%20Julio%202024.pdf)
 
 [Grabación: Laboratorio Clase 1 - 18 Julio 2024](https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link)
 
@@ -182,7 +182,7 @@ En esta clase introductoria se impartieron recomendaciones de como trabajar el l
 
 En esta clase introductoria se impartio contenido referente a la Programación Orientada a Objetos en Python, así como recomendaciones y convenciones. tales como el uso de Getters, Setters para el encapsulamiento.
 
-[Presentación: Laboratorio Clase 2 - 25 Julio 2024](Presentaciones\IPC2%20S2%202024%20-%20Laboratorio%20Clase%202%20-%2025%20Julio%202024.pdf)
+[Presentación: Laboratorio Clase 2 - 25 Julio 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%202%20-%2025%20Julio%202024.pdf)
 
 
 [Grabación: Laboratorio Clase 2 - 25 Julio 2024](https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view?usp=drive_link)
@@ -198,7 +198,7 @@ En esta clase se explicó en primera instancia conceptos básicos de git, así c
 - Pull request de una rama secundaria a otra principal (de develop a main).
 - Hacer un release desde github con etiqueta de versión.
 
-[Presentación: Laboratorio Clase 3 - 1 Agosto 2024](Presentaciones\IPC2%20S2%202024%20-%20Laboratorio%20Clase%203%20-%201%20Agosto%202024.pdf)
+[Presentación: Laboratorio Clase 3 - 1 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%203%20-%201%20Agosto%202024.pdf)
 
 [Grabación: Laboratorio Clase 3 - 1 Agosto 2024](https://drive.google.com/file/d/18BCHm0KKHbQz9z4_v1aY1vczTga1oWgo/view?usp=drive_link)
 
@@ -216,7 +216,7 @@ Además, se leyó el enunciado del proyecto 1, este tendrá fecha de entrega el 
 
 Se adjuntó además de eso la presentación de XML (Clase 4 en la carpeta de presentaciones), así como como la clase extra que contiene formas de manejo de POO, XML, Git y Diagramas.
 
-[Presentación: Laboratorio Clase 4 - 8 Agosto 2024](Presentaciones\IPC2%20S2%202024%20-%20Laboratorio%20Clase%204%20-%2008-08-2024.pptx.pdf)
+[Presentación: Laboratorio Clase 4 - 8 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%204%20-%2008-08-2024.pptx.pdf)
 
 [Grabación: Laboratorio Clase 4 - 8 Agosto 2024](https://drive.google.com/file/d/14Y4MEDNOVRVIcR9TwEJMaTm-4X1t34xP/view?usp=sharing)
 
