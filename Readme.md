@@ -164,7 +164,7 @@ Al finalizar el laboratorio el estudiante desarrollará las siguientes competenc
 | **Total del laboratorio**    | **30 pts.** |                 |         |
 | **Nota de promoción**        | **18.3 pts.**|                 |         |
 
-## Grabaciones de Clases
+## Grabaciones y Presentaciones de Clases
 
 **Laboratorio Clase 1 - 18 Julio 2024**
 
@@ -172,7 +172,9 @@ Al finalizar el laboratorio el estudiante desarrollará las siguientes competenc
 
 En esta clase introductoria se impartieron recomendaciones de como trabajar el laboratorio a lo largo del semestre, así como los temas y herramientas planificadas. Asímismo, el auxiliar se presentó a los estudiantes y se facilitaron las vías de comunicación.
 
-Archivo: [https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link](https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link)
+[Presentación: Laboratorio Clase 1 - 18 Julio 2024](Presentaciones\IPC2%20S2%202024%20-%20Laboratorio%20Clase%201%20-%2018%20Julio%202024.pdf)
+
+[Grabación: Laboratorio Clase 1 - 18 Julio 2024](https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link)
 
 **Laboratorio Clase 2 - 25 Julio 2024**
 
@@ -180,4 +182,60 @@ Archivo: [https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view
 
 En esta clase introductoria se impartio contenido referente a la Programación Orientada a Objetos en Python, así como recomendaciones y convenciones. tales como el uso de Getters, Setters para el encapsulamiento.
 
-Archivo: [https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view?usp=drive_link](https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view?usp=drive_link)
+[Presentación: Laboratorio Clase 2 - 25 Julio 2024](Presentaciones\IPC2%20S2%202024%20-%20Laboratorio%20Clase%202%20-%2025%20Julio%202024.pdf)
+
+
+[Grabación: Laboratorio Clase 2 - 25 Julio 2024](https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view?usp=drive_link)
+
+**Laboratorio Clase 3 - 1 Agosto 2024**
+
+***Git workflow***
+
+En esta clase se explicó en primera instancia conceptos básicos de git, así como comandos y finalmente un ejemplo de uso de:
+- Creación de ramas.
+- Cambio entre ramas.
+- Fusión de cambios de una rama feature a una rama base (develop).
+- Pull request de una rama secundaria a otra principal (de develop a main).
+- Hacer un release desde github con etiqueta de versión.
+
+[Presentación: Laboratorio Clase 3 - 1 Agosto 2024](Presentaciones\IPC2%20S2%202024%20-%20Laboratorio%20Clase%203%20-%201%20Agosto%202024.pdf)
+
+[Grabación: Laboratorio Clase 3 - 1 Agosto 2024](https://drive.google.com/file/d/18BCHm0KKHbQz9z4_v1aY1vczTga1oWgo/view?usp=drive_link)
+
+**Laboratorio Clase 4 - 8 Agosto 2024**
+
+***Lectura Enunciado Práctica 1***
+
+Se dio la lectura pertinente a la práctica 1, con fecha de entrega el día 23 de Agosto de 2024.
+
+***Lectura Enunciado Proyecto 1***
+
+Además, se leyó el enunciado del proyecto 1, este tendrá fecha de entrega el día 4 de Septiembre de 2024, además es importante tomar en consideración las restricciones impuestas, así como las consideraciones importantes de penalizaciones.
+
+***XML***
+
+Se adjuntó además de eso la presentación de XML (Clase 4 en la carpeta de presentaciones), así como como la clase extra que contiene formas de manejo de POO, XML, Git y Diagramas.
+
+[Presentación: Laboratorio Clase 4 - 8 Agosto 2024](Presentaciones\IPC2%20S2%202024%20-%20Laboratorio%20Clase%204%20-%2008-08-2024.pptx.pdf)
+
+[Grabación: Laboratorio Clase 4 - 8 Agosto 2024](https://drive.google.com/file/d/14Y4MEDNOVRVIcR9TwEJMaTm-4X1t34xP/view?usp=sharing)
+
+**Laboratorio Clase Extra 4.5**
+
+***Resolución de un problema mediante análisis de diagramas UML, POO en Python, XML y GIT***
+
+En esta clase extra se tiene la siguiente descripción: "Se requiere desarrollar un sistema que permita almacenar y modificar los datos e información de estudiantes y cursos proporcionados en archivos XML. La aplicación debe ofrecer funcionalidades para cargar, visualizar, buscar y actualizar tanto la información de los estudiantes como la de los cursos. Para abordar este problema, se han definido las siguientes clases".
+
+La intención de esta clase es enseñar que a partir de una descripción escrita, nosotros debemos seguir los pasos:
+1. Leer el problema.
+2. Analizar la información.
+3. Diseñar la solución (mediante varios tipos de diagramas UML).
+4. Desarrollar la solución aplicando buenas prácticas de programación en Python y XML para lectura de archivos.
+5. Documentar y usar versionamiento de forma adecuada (GIT).
+
+Para ver en mayor detalle esta clase, puedes leer el enunciado de: [Clase Extra 4.5 UML, POO, XML, GIT (archivo RMD)](Clase%20Extra%204.5%20UML,%20POO,%20XML,%20GIT).
+
+[Grabación: Laboratorio Clase Extra 4.5](https://drive.google.com/file/d/1J4oh8zYjRM8IWYM9naJ_Q1MCxfCmGJdK/view?usp=sharing)
+ 
+
+ 
