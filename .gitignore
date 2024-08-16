@@ -1,0 +1,11 @@
+# Ignorar carpetas específicas
+idea/
+venv/
+*idea/
+*venv/
+.idea/
+.venv/
+*.idea/
+*.venv/
+*.pyc
+*__pycache__/*

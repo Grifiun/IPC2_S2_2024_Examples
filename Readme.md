@@ -237,5 +237,17 @@ Para ver en mayor detalle esta clase, puedes leer el enunciado de: [Clase Extra 
 
 [Grabación: Laboratorio Clase Extra 4.5](https://drive.google.com/file/d/1J4oh8zYjRM8IWYM9naJ_Q1MCxfCmGJdK/view?usp=sharing)
  
+**Laboratorio Clase Extra 4.6 - 15 Agosto 2024**
 
- 
+***Introducción Listas Enlazadas de varios tipos, mediante: conceptos, diagramas, código***
+
+En esta clase extra, se abordaron los conceptos fundamentales de Estructuras de Datos, comenzando por la creación y manejo de Nodos. Posteriormente, se explicó cómo estos conceptos se aplican en la implementación de diferentes tipos de listas enlazadas:
+
+- **Listas Simples**: Donde cada nodo apunta al siguiente.
+- **Listas Circulares Simples**: Similar a las listas simples, pero el último nodo se enlaza de vuelta al primero, formando un ciclo.
+- **Listas Doble Enlace**: Cada nodo tiene enlaces tanto al nodo siguiente como al anterior, permitiendo recorrer la lista en ambas direcciones.
+- **Listas Circulares Doble Enlace**: Una combinación de listas dobles y circulares, donde el último nodo apunta al primero y viceversa.
+
+Durante la clase, se realizaron diagramas UML para visualizar la estructura de estas listas y se desarrollaron ejemplos de código en Python para implementar cada tipo de lista, aplicando buenas prácticas de programación.
+
+[Grabación: Laboratorio Clase Extra 4.6 - 15 Agosto 2024]()
