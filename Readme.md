@@ -250,4 +250,4 @@ En esta clase extra, se abordaron los conceptos fundamentales de Estructuras de 
 
 Durante la clase, se realizaron diagramas UML para visualizar la estructura de estas listas y se desarrollaron ejemplos de código en Python para implementar cada tipo de lista, aplicando buenas prácticas de programación.
 
-[Grabación: Laboratorio Clase Extra 4.6 - 15 Agosto 2024]()
+[Grabación: Laboratorio Clase Extra 4.6 - 15 Agosto 2024](https://drive.google.com/file/d/18Yo7efXniguxlTeP2cSGymBrAPNncXfy/view?usp=sharing)
