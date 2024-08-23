@@ -3,7 +3,19 @@ class NodoSimple:
         print(f"Se creo nodo, {texto}")
         self.texto = texto
         self.siguiente = None
-        
+
+    def __iter__(self):
+        self.current = self
+        return self
+
+    def __next__(self):
+        if self.current is None:
+            raise StopIteration
+        else:
+            nodo_actual = self.current
+            self.current = self.current.siguiente              
+            return nodo_actual 
+
     def agregarSiguiente(self, nodo):
         self.siguiente = nodo
         print(f"{self.texto} -> siguiente -> {nodo.texto}")

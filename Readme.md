@@ -170,7 +170,7 @@ Al finalizar el laboratorio el estudiante desarrollará las siguientes competenc
 
 ***Introducción y presentación***
 
-En esta clase introductoria se impartieron recomendaciones de como trabajar el laboratorio a lo largo del semestre, así como los temas y herramientas planificadas. Asímismo, el auxiliar se presentó a los estudiantes y se facilitaron las vías de comunicación.
+En esta clase introductoria se impartieron recomendaciones de cómo trabajar el laboratorio a lo largo del semestre, así como los temas y herramientas planificadas. Asimismo, el auxiliar se presentó a los estudiantes y se facilitaron las vías de comunicación.
 
 [Presentación: Laboratorio Clase 1 - 18 Julio 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%201%20-%2018%20Julio%202024.pdf)
 
@@ -180,7 +180,7 @@ En esta clase introductoria se impartieron recomendaciones de como trabajar el l
 
 ***Programación Orientada a Objetos en Python***
 
-En esta clase introductoria se impartio contenido referente a la Programación Orientada a Objetos en Python, así como recomendaciones y convenciones. tales como el uso de Getters, Setters para el encapsulamiento.
+En esta clase introductoria se impartió contenido referente a la Programación Orientada a Objetos en Python, así como recomendaciones y convenciones. tales como el uso de Getters, Setters para el encapsulamiento.
 
 [Presentación: Laboratorio Clase 2 - 25 Julio 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%202%20-%2025%20Julio%202024.pdf)
 
@@ -251,3 +251,29 @@ En esta clase extra, se abordaron los conceptos fundamentales de Estructuras de 
 Durante la clase, se realizaron diagramas UML para visualizar la estructura de estas listas y se desarrollaron ejemplos de código en Python para implementar cada tipo de lista, aplicando buenas prácticas de programación.
 
 [Grabación: Laboratorio Clase Extra 4.6 - 15 Agosto 2024](https://drive.google.com/file/d/18Yo7efXniguxlTeP2cSGymBrAPNncXfy/view?usp=sharing)
+
+**Laboratorio Clase 5 - 22 Agosto 2024**
+
+***Tuplas, Listas y Diccionarios nativos de python y Listas Enlazadas manuales***
+
+En esta clase se enseñaron las definiciones, modo de uso, ventajas y desventajas de las tuplas, listas y diccionarios nativos de python. Por ejemplo, las tuplas son inmutables, las listas y diccionarios mutables. 
+
+Además de eso, se explicó como programar listas enlazadas manuales, y formas de iterar sobre las listas enlazadas, incluido while y for (definiendo antes __iter__ y __next__ en los nodos). Con lo cual se realizó el ejemplo de: *Se requiere un control de registro de estudiantes, los estudiantes tienen carné, cantidad créditos, año de inscripción y nombre completo. Genere una lista enlazada que permita registrar 5 estudiantes y luego mostrar cada uno de ellos iterando sobre la lista enlazada.*
+
+Los estudiantes a registrar son:
+
+| Carnet     | Nombre     | Año  | Créditos |
+|------------|------------|------|----------|
+| 200020200  | Juan       | 2000 | 250      |
+| 200120200  | Pedro      | 2001 | 250      |
+| 200220200  | Maria      | 2002 | 250      |
+| 200320200  | Jose Maria | 2003 | 250      |
+| 200420200  | Maria Jose | 2004 | 250      |
+
+
+[Presentación: Laboratorio Clase 5 - 22 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%205%20-%2022%20Agosto%202024.pdf)
+
+pendiente
+
+
+[Grabación: Laboratorio Clase 5 - 22 Agosto 2024]() 

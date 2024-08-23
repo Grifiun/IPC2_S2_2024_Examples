@@ -1,3 +1,9 @@
+## Autoría:
+**Recurso producido por:** Denilson Florentín de León Aguilar.
+
+**Como parte del curso:** Introducción a la Programación y Computación 2 Sección P S2 2024.
+
+---
 ## Descripción del Problema
 
 Se requiere desarrollar un sistema que permita almacenar y modificar los datos e información de estudiantes y cursos proporcionados en archivos XML. La aplicación debe ofrecer funcionalidades para cargar, visualizar, buscar y actualizar tanto la información de los estudiantes como la de los cursos. Para abordar este problema, se han definido las siguientes clases:
@@ -49,6 +55,7 @@ Se requiere desarrollar un sistema que permita almacenar y modificar los datos e
 
 ### Clase `XMLHandler` (xml_serv)
 Esta clase es una abstract, por lo que significa que sus hijas terminarán de implementar dichas funciones.
+
 #### Métodos
 - `create_xml_node(self, name)`: Método para crear un nodo XML.
 - `write_xml(self, doc, file_path)`: Método para escribir un documento XML en un archivo.

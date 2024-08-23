@@ -29,3 +29,25 @@ if __name__ == "__main__":
     nodo4 = NodoDoble("Nodo4")
     nodo3.agregarSiguiente(nodo4)
     nodo4.agregarAnterior(nodo3)
+
+    # -------------------- Lista circular doble enlace
+    print("---------------------- CIRCULAR DOBLE ENLACE")
+    # Crear nodos
+    nodoCircularSimple1 = NodoDoble("Nodo1_CD")
+
+    # Al crear nodo2, actualizamos el siguiente de Nodo1, Nodo2; anterior nodo1, nodo2
+    nodoCircularSimple2 = NodoDoble("Nodo2_CD")
+    nodoCircularSimple1.agregarSiguiente(nodoCircularSimple2)
+    nodoCircularSimple2.agregarSiguiente(nodoCircularSimple1)
+
+    nodoCircularSimple2.agregarAnterior(nodoCircularSimple1)
+    nodoCircularSimple1.agregarAnterior(nodoCircularSimple2)    
+
+    # Al crear nodo2, actualizamos el siguiente de Nodo2, Nodo3; anterior nodo1, nodo2
+    nodoCircularSimple3 = NodoDoble("Nodo3_CD")
+    nodoCircularSimple2.agregarSiguiente(nodoCircularSimple2)
+    nodoCircularSimple3.agregarSiguiente(nodoCircularSimple1)
+
+    nodoCircularSimple3.agregarAnterior(nodoCircularSimple2)
+    nodoCircularSimple1.agregarAnterior(nodoCircularSimple3)
+    
