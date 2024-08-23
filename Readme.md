@@ -273,7 +273,4 @@ Los estudiantes a registrar son:
 
 [Presentación: Laboratorio Clase 5 - 22 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%205%20-%2022%20Agosto%202024.pdf)
 
-pendiente
-
-
-[Grabación: Laboratorio Clase 5 - 22 Agosto 2024]() 
+[Grabación: Laboratorio Clase 5 - 22 Agosto 2024](https://drive.google.com/file/d/1YctU9YiYn4WXvQi0Zr3exbLTAbwPobm_/view?usp=sharing) 
