@@ -1,0 +1,33 @@
+digraph {
+    ranksep=1;
+    nodesep=0.5;
+    
+    node11 [group="1" color=magenta];
+    node12 [group="2" color=magenta];
+    node13 [group="3" color=magenta];
+    
+    node21 [group="1" color=cyan];
+    node22 [group="2" color=cyan];
+    node23 [group="3" color=cyan];
+
+    node31 [group="1"];
+    node32 [group="2"];
+    node33 [group="3"];
+
+
+    //Alineamos horizontal
+    {rank=same; node11; node12; node13}
+    {rank=same; node21; node22; node23}
+    {rank=same; node31; node32; node33}
+    
+    //conecciones horinztales
+    node11 -> node12 -> node13;
+    node21 -> node22 -> node23;
+    node31 -> node32 -> node33;
+    
+    //conecciones verticales
+    node11 -> node21 -> node31 [style=invis];
+    node12 -> node22 -> node32 [style=invis];
+    node13 -> node23 -> node33 [style=invis];
+    
+}
