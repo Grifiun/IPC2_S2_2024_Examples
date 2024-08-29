@@ -1,0 +1,30 @@
+digraph {
+    // Especifica que usas el motor fdp
+    graph [layout=fdp]
+
+    // Espacios entre nodos
+    node [shape=box width=0.5 height=0.5];
+
+    // Definición de nodos con posiciones específicas
+    node11 [pos="0,4!", color=magenta];
+    node12 [pos="1,5!", color=magenta];
+    node13 [pos="2,4!", color=magenta];
+    
+    node21 [pos="0,1!", color=cyan];
+    node22 [pos="1,1!", color=cyan];
+    node23 [pos="2,1!", color=cyan];
+
+    node31 [pos="0,0!"];
+    node32 [pos="1,0!"];
+    node33 [pos="2,0!"];
+
+    // Conexiones entre nodos horizontalmente
+    node11 -> node12 -> node13;
+    node21 -> node22 -> node23;
+    node31 -> node32 -> node33;
+    
+    // Conexiones invisibles para mantener alineación
+    node11 -> node21 -> node31 [style=invis];
+    node12 -> node22 -> node32 [style=invis];
+    node13 -> node23 -> node33 [style=invis];
+}

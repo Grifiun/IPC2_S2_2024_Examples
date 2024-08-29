@@ -1,0 +1,67 @@
+digraph G {
+    //rankdir=TB;  // Ordenar de arriba hacia abajo
+    rankdir=TB;
+    node [shape=box];  // Nodos en forma de cuadros
+
+    // Definición de los nodos para cada fila
+    fila1_nodo1 [label="A (1,1)" group="1"];
+
+    fila2_nodo1 [label="B (2,1)" group="2"];
+    fila2_nodo2 [label="C (2,2)" group="2"];
+
+    fila3_nodo1 [label="D (3,1)" group="3"];
+    fila3_nodo2 [label="E (3,2)" group="3"];
+    fila3_nodo3 [label="F (3,3)" group="3"];
+
+    fila4_nodo1 [label="G (4,1)" group="4"];
+    fila4_nodo2 [label="H (4,2)" group="4"];
+    fila4_nodo3 [label="I (4,3)" group="4"];
+    fila4_nodo4 [label="J (4,4)" group="4"];
+
+    // Subgraph para alinear los nodos en filas
+    subgraph cluster_fila1 {
+        rank=same;
+        fila1_nodo1;
+    }
+
+    subgraph cluster_fila2 {
+        rank=same;
+        fila2_nodo1;
+        fila2_nodo2;
+    }
+
+    subgraph cluster_fila3 {
+        rank=same;
+        fila3_nodo1;
+        fila3_nodo2;
+        fila3_nodo3;
+    }
+
+    subgraph cluster_fila4 {
+        rank=same;
+        fila4_nodo1;
+        fila4_nodo2;
+        fila4_nodo3;
+        fila4_nodo4;
+    }
+    // Conexiones entre los nodos en cada fila (de izquierda a derecha)
+    fila2_nodo1 -> fila2_nodo2 [constraint=false];
+    
+    fila3_nodo1 -> fila3_nodo2 [constraint=false];
+    fila3_nodo2 -> fila3_nodo3 [constraint=false];
+
+    fila4_nodo1 -> fila4_nodo2 [constraint=false];
+    fila4_nodo2 -> fila4_nodo3 [constraint=false];
+    fila4_nodo3 -> fila4_nodo4 [constraint=false];
+
+
+    // Conexiones entre los nodos en cada columna (de arriba a abajo)
+    fila1_nodo1 -> fila2_nodo1 [constraint=true];
+    fila2_nodo1 -> fila3_nodo1 [constraint=true];
+    fila3_nodo1 -> fila4_nodo1 [constraint=true];
+    
+    fila2_nodo2 -> fila3_nodo2 [constraint=true];
+    fila3_nodo2 -> fila4_nodo2 [constraint=true];
+    
+    fila3_nodo3 -> fila4_nodo3 [constraint=true];
+}
