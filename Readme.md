@@ -284,3 +284,27 @@ En esta clase, trabajamos en la organización de nodos utilizando la herramienta
 [Presentación: Laboratorio Clase 6 - 29 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%206%20-%2029%20Agosto%202024.pdf)
 
 [Grabación: Laboratorio Clase 6 - 29 Agosto 2024](https://drive.google.com/file/d/1xMnd8jwW1LDWr6Niqb-Lem_VdDbu6gjF/view?usp=sharing)
+
+**Laboratorio Clase 7 - 05 Septiembre 2024**
+
+***Lectura Enunciado Proyecto 2***
+
+Se leyó el enunciado del proyecto 2, este tendrá fecha de entrega el día 2 de Octubre de 2024, además es importante tomar en consideración las restricciones impuestas, así como las consideraciones importantes de penalizaciones.
+
+***Introducción a HTML, CSS, JS***
+
+En esta clase, además, se dio la introducción de conceptos de HTML5, CSS, JavaScript (JS) que los estudiantes utilizarán a lo largo de su carrera profesional. Es importante destacar que dado que el contenido es muy extenso, solo se abordaron los conceptos más recurrentes en la programación web y se espera que el alumnado refuerce dichos temas de forma autodidacta. 
+
+Se mencionaron algunos elementos de HTML primordiales, como:
+- Estructura general (head, body, footer, header, div, section, article).
+- Listas enumeradas (ol) y no enumeradas (ul).
+- Tablas (table, tr, td, th, caption).
+- Inputs de varios tipos (text, password, email, radio, checkbox, submit).
+- Cómo enlazar archivos CSS y JS externos.
+
+[Presentación: Laboratorio Clase 7 - 05 Septiembre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%207%20-%2005%20Septiembre%202024.pdf)
+
+[Grabación: Laboratorio Clase 7 - 05 Septiembre 2024](https://drive.google.com/file/d/18vJmccb6z6SRAbubkwRUH_u5IKj49avR/view?usp=sharing)
+
+
+
