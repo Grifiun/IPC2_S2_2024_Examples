@@ -168,13 +168,12 @@ Al finalizar el laboratorio el estudiante desarrollará las siguientes competenc
 
 **Laboratorio Clase 1 - 18 Julio 2024**
 
-***Introducción y presentación***
+***Introducción y Presentación***
 
 En esta clase introductoria se impartieron recomendaciones de cómo trabajar el laboratorio a lo largo del semestre, así como los temas y herramientas planificadas. Asimismo, el auxiliar se presentó a los estudiantes y se facilitaron las vías de comunicación.
 
-[Presentación: Laboratorio Clase 1 - 18 Julio 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%201%20-%2018%20Julio%202024.pdf)
-
-[Grabación: Laboratorio Clase 1 - 18 Julio 2024](https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link)
+- [Presentación: Laboratorio Clase 1 - 18 Julio 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%201%20-%2018%20Julio%202024.pdf)
+- [Grabación: Laboratorio Clase 1 - 18 Julio 2024](https://drive.google.com/file/d/1G3PlK7a_hdNqP0hf877QXLfcMKlC4PMQ/view?usp=drive_link)
 
 **Laboratorio Clase 2 - 25 Julio 2024**
 
@@ -182,14 +181,12 @@ En esta clase introductoria se impartieron recomendaciones de cómo trabajar el 
 
 En esta clase introductoria se impartió contenido referente a la Programación Orientada a Objetos en Python, así como recomendaciones y convenciones. tales como el uso de Getters, Setters para el encapsulamiento.
 
-[Presentación: Laboratorio Clase 2 - 25 Julio 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%202%20-%2025%20Julio%202024.pdf)
-
-
-[Grabación: Laboratorio Clase 2 - 25 Julio 2024](https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view?usp=drive_link)
+- [Presentación: Laboratorio Clase 2 - 25 Julio 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%202%20-%2025%20Julio%202024.pdf)
+- [Grabación: Laboratorio Clase 2 - 25 Julio 2024](https://drive.google.com/file/d/13cAexN--tcJK8pfHMKABSQP6XIIdhcAZ/view?usp=drive_link)
 
 **Laboratorio Clase 3 - 1 Agosto 2024**
 
-***Git workflow***
+***Git Workflow***
 
 En esta clase se explicó en primera instancia conceptos básicos de git, así como comandos y finalmente un ejemplo de uso de:
 - Creación de ramas.
@@ -197,10 +194,8 @@ En esta clase se explicó en primera instancia conceptos básicos de git, así c
 - Fusión de cambios de una rama feature a una rama base (develop).
 - Pull request de una rama secundaria a otra principal (de develop a main).
 - Hacer un release desde github con etiqueta de versión.
-
-[Presentación: Laboratorio Clase 3 - 1 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%203%20-%201%20Agosto%202024.pdf)
-
-[Grabación: Laboratorio Clase 3 - 1 Agosto 2024](https://drive.google.com/file/d/18BCHm0KKHbQz9z4_v1aY1vczTga1oWgo/view?usp=drive_link)
+- [Presentación: Laboratorio Clase 3 - 1 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%203%20-%201%20Agosto%202024.pdf)
+- [Grabación: Laboratorio Clase 3 - 1 Agosto 2024](https://drive.google.com/file/d/18BCHm0KKHbQz9z4_v1aY1vczTga1oWgo/view?usp=drive_link)
 
 **Laboratorio Clase 4 - 8 Agosto 2024**
 
@@ -216,13 +211,12 @@ Además, se leyó el enunciado del proyecto 1, este tendrá fecha de entrega el 
 
 Se adjuntó además de eso la presentación de XML (Clase 4 en la carpeta de presentaciones), así como como la clase extra que contiene formas de manejo de POO, XML, Git y Diagramas.
 
-[Presentación: Laboratorio Clase 4 - 8 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%204%20-%2008-08-2024.pptx.pdf)
-
-[Grabación: Laboratorio Clase 4 - 8 Agosto 2024](https://drive.google.com/file/d/14Y4MEDNOVRVIcR9TwEJMaTm-4X1t34xP/view?usp=sharing)
+- [Presentación: Laboratorio Clase 4 - 8 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%204%20-%2008-08-2024.pptx.pdf)
+- [Grabación: Laboratorio Clase 4 - 8 Agosto 2024](https://drive.google.com/file/d/14Y4MEDNOVRVIcR9TwEJMaTm-4X1t34xP/view?usp=sharing)
 
 **Laboratorio Clase Extra 4.5**
 
-***Resolución de un problema mediante análisis de diagramas UML, POO en Python, XML y GIT***
+***Resolución de un Problema Mediante Análisis de Diagramas UML, POO en Python, XML y GIT***
 
 En esta clase extra se tiene la siguiente descripción: "Se requiere desarrollar un sistema que permita almacenar y modificar los datos e información de estudiantes y cursos proporcionados en archivos XML. La aplicación debe ofrecer funcionalidades para cargar, visualizar, buscar y actualizar tanto la información de los estudiantes como la de los cursos. Para abordar este problema, se han definido las siguientes clases".
 
@@ -235,11 +229,11 @@ La intención de esta clase es enseñar que a partir de una descripción escrita
 
 Para ver en mayor detalle esta clase, puedes leer el enunciado de: [Clase Extra 4.5 UML, POO, XML, GIT (archivo RMD)](Clase%20Extra%204.5%20UML,%20POO,%20XML,%20GIT).
 
-[Grabación: Laboratorio Clase Extra 4.5](https://drive.google.com/file/d/1J4oh8zYjRM8IWYM9naJ_Q1MCxfCmGJdK/view?usp=sharing)
+- [Grabación: Laboratorio Clase Extra 4.5](https://drive.google.com/file/d/1J4oh8zYjRM8IWYM9naJ_Q1MCxfCmGJdK/view?usp=sharing)
  
 **Laboratorio Clase Extra 4.6 - 15 Agosto 2024**
 
-***Introducción Listas Enlazadas de varios tipos, mediante: conceptos, diagramas, código***
+***Introducción Listas Enlazadas de Varios Tipos, Mediante: Conceptos, Diagramas y Código***
 
 En esta clase extra, se abordaron los conceptos fundamentales de Estructuras de Datos, comenzando por la creación y manejo de Nodos. Posteriormente, se explicó cómo estos conceptos se aplican en la implementación de diferentes tipos de listas enlazadas:
 
@@ -250,11 +244,11 @@ En esta clase extra, se abordaron los conceptos fundamentales de Estructuras de 
 
 Durante la clase, se realizaron diagramas UML para visualizar la estructura de estas listas y se desarrollaron ejemplos de código en Python para implementar cada tipo de lista, aplicando buenas prácticas de programación.
 
-[Grabación: Laboratorio Clase Extra 4.6 - 15 Agosto 2024](https://drive.google.com/file/d/18Yo7efXniguxlTeP2cSGymBrAPNncXfy/view?usp=sharing)
+- [Grabación: Laboratorio Clase Extra 4.6 - 15 Agosto 2024](https://drive.google.com/file/d/18Yo7efXniguxlTeP2cSGymBrAPNncXfy/view?usp=sharing)
 
 **Laboratorio Clase 5 - 22 Agosto 2024**
 
-***Tuplas, Listas y Diccionarios nativos de python y Listas Enlazadas manuales***
+***Tuplas, Listas y Diccionarios Nativos de Python y Listas Enlazadas Manuales***
 
 En esta clase se enseñaron las definiciones, modo de uso, ventajas y desventajas de las tuplas, listas y diccionarios nativos de python. Por ejemplo, las tuplas son inmutables, las listas y diccionarios mutables. 
 
@@ -271,9 +265,8 @@ Los estudiantes a registrar son:
 | 200420200  | Maria Jose | 2004 | 250      |
 
 
-[Presentación: Laboratorio Clase 5 - 22 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%205%20-%2022%20Agosto%202024.pdf)
-
-[Grabación: Laboratorio Clase 5 - 22 Agosto 2024](https://drive.google.com/file/d/1YctU9YiYn4WXvQi0Zr3exbLTAbwPobm_/view?usp=sharing) 
+- [Presentación: Laboratorio Clase 5 - 22 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%205%20-%2022%20Agosto%202024.pdf)
+- [Grabación: Laboratorio Clase 5 - 22 Agosto 2024](https://drive.google.com/file/d/1YctU9YiYn4WXvQi0Zr3exbLTAbwPobm_/view?usp=sharing) 
 
 **Laboratorio Clase 6 - 29 Agosto 2024**
 
@@ -281,9 +274,8 @@ Los estudiantes a registrar son:
 
 En esta clase, trabajamos en la organización de nodos utilizando la herramienta Graphviz, esto en referencia a controlar la disposición de nodos en gráficos, tanto horizontal como verticalmente, y cómo especificar posiciones exactas en un plano 2D con coordenadas (en engine *fdp*). También revisamos la integración de Graphviz con manipulación de listas enlazadas. Además, vimos integración de tkinter con una ventana, botones y funciones.
 
-[Presentación: Laboratorio Clase 6 - 29 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%206%20-%2029%20Agosto%202024.pdf)
-
-[Grabación: Laboratorio Clase 6 - 29 Agosto 2024](https://drive.google.com/file/d/1xMnd8jwW1LDWr6Niqb-Lem_VdDbu6gjF/view?usp=sharing)
+- [Presentación: Laboratorio Clase 6 - 29 Agosto 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%206%20-%2029%20Agosto%202024.pdf)
+- [Grabación: Laboratorio Clase 6 - 29 Agosto 2024](https://drive.google.com/file/d/1xMnd8jwW1LDWr6Niqb-Lem_VdDbu6gjF/view?usp=sharing)
 
 **Laboratorio Clase 7 - 05 Septiembre 2024**
 
@@ -302,9 +294,20 @@ Se mencionaron algunos elementos de HTML primordiales, como:
 - Inputs de varios tipos (text, password, email, radio, checkbox, submit).
 - Cómo enlazar archivos CSS y JS externos.
 
-[Presentación: Laboratorio Clase 7 - 05 Septiembre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%207%20-%2005%20Septiembre%202024.pdf)
+- [Presentación: Laboratorio Clase 7 - 05 Septiembre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%207%20-%2005%20Septiembre%202024.pdf)
+- [Grabación: Laboratorio Clase 7 - 05 Septiembre 2024](https://drive.google.com/file/d/18vJmccb6z6SRAbubkwRUH_u5IKj49avR/view?usp=sharing)
 
-[Grabación: Laboratorio Clase 7 - 05 Septiembre 2024](https://drive.google.com/file/d/18vJmccb6z6SRAbubkwRUH_u5IKj49avR/view?usp=sharing)
+**Laboratorio Clase 8 - 12 Septiembre 2024**
 
+***Lectura Enunciado Práctica 2***
 
+Se leyó el enunciado de la Práctica 2, este tendrá fecha de entrega el día 20 de Septiembre de 2024, además es importante tomar en consideración las restricciones impuestas, así como las consideraciones importantes de penalizaciones.
 
+***Introducción a programación Web mediante Protocolos HTTP, Socket, Puertos y Flask y Node***
+
+En esta clase se les dio la introducción a conceptos de la programación web importantes como los protocolos HTTP, las direcciones IPv4, los puertos, endpoints y el uso de los framework de Node y Flask tanto para frontend y backend.
+
+Además, se les dio un ejemplo donde se usa una app de Node como frontend en el endpoint localhost:3000/name, que se comunica con 2 app backend, uno hecho en Flask y otro en Node. La idea de esto, es que se comprenda que no importa la tecnología, siempre se pueden comunicar 2 o más sistemas siempre que se use el mismo método de comunicación, en este caso el HTTP.
+
+- [Presentación: Laboratorio Clase 8 - 12 Septiembre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%208%20-%2012%20Septiembre%202024.pdf)
+- [Grabación: Laboratorio Clase 8 - 12 Septiembre 2024](https://drive.google.com/file/d/1_GcMKokkvcK-o0a0IyQ6fybPpVNt9O7_/view?usp=sharing)

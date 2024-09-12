@@ -10,3 +10,7 @@ venv/
 *.pyc
 *__pycache__/*
 *__pycache__*
+*node_modules*
+*node_modules*
+Ejemplos\Programación Web HTML, CSS, Flask, Node\node\node_modules
+*package-lock.json*
