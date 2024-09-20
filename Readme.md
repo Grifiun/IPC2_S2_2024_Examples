@@ -311,3 +311,17 @@ Además, se les dio un ejemplo donde se usa una app de Node como frontend en el 
 
 - [Presentación: Laboratorio Clase 8 - 12 Septiembre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%208%20-%2012%20Septiembre%202024.pdf)
 - [Grabación: Laboratorio Clase 8 - 12 Septiembre 2024](https://drive.google.com/file/d/1_GcMKokkvcK-o0a0IyQ6fybPpVNt9O7_/view?usp=sharing)
+
+**Laboratorio Clase 9 - 19 Septiembre 2024 - Conferencia**
+
+***Conferencia Travesía por el Desarrollo Web: Desde el Frontend hasta las Nubes***
+
+Al inicio de la conferencia, se le dio lectura al CV del conferencista para validar su dominio. Luego se le dio la palabra.
+
+En esta travesía por el desarrollo web, hemos explorado desde los fundamentos de las arquitecturas de sistemas, desde la importancia de la separación del frontend y el backend, hasta las complejidades de las infraestructuras en la nube (en este caso, se exploró sobre la arquitectura por capas). Hemos aprendido sobre las tecnologías más utilizadas en el mercado actual y cómo pueden combinarse para crear aplicaciones web modernas y eficientes. 
+
+Además, hemos presenciado un ejemplo práctico de cómo implementar un programa frontend en un HTML estático y un backend en Node.js, desplegando ambos en un entorno de producción en Google Cloud Platform. Este ejemplo puso a prueba el uso de la nube y cómo aprovecharlo para escalar nuestras aplicaciones y hacerlas accesibles en cualquier momento y lugar. En resumen, esta conferencia nos ha brindado una visión completa del desarrollo web actual y nos ha mostrado el camino hacia el despliegue de las aplicaciones web de una forma sencilla y con herramientas a la vanguardia.
+
+- [Ejemplo despliegue](Conferencia%20Travesía%20por%20el%20Desarrollo%20Web%20Desde%20el%20Frontend%20hasta%20las%20Nubes/)
+- [Presentación: Clase 9 - 19 Septiembre 2024 - Conferencia](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%209%20-%2019%20Septiembre%202024%20-%20Conferencia%20Travesía%20por%20el%20Desarrollo%20Web%20Desde%20el%20Frontend%20hasta%20las%20Nubes.pdf)
+- [Grabación: Clase 9 - 19 Septiembre 2024 - Conferencia](https://drive.google.com/file/d/1-ds4hAWaRCbr2m-DAxM-IJBa014Rh83r/view?usp=sharing)
