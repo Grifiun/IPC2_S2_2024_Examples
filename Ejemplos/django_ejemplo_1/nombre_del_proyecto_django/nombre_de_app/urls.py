@@ -10,4 +10,3 @@ urlpatterns = [
     path("pagina_hija_1", views.pagina_hija_1),
     path("pagina_hija_2", views.pagina_hija_2),
 ]
-

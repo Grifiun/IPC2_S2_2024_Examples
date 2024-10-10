@@ -353,3 +353,18 @@ Por último, se dio una introducción al framework Django que el estudiante util
 
 - [Presentación: Laboratorio Clase 10 - 03 Octubre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%2010%20-%2003%20Octubre%202024.pdf)
 - [Grabación: Laboratorio Clase 10 - 03 Octubre 2024](https://drive.google.com/file/d/15Nl39LjUkxwsC9kzRcGVVuNa1Da_Z6ka/view?usp=sharing)
+
+
+**Laboratorio Clase 11 - 10 Octubre 2024**
+
+***Configuración y Creación de Vistas en Django***
+
+En esta clase se explicó la configuración de un entorno virtual y la instalación de Django. Además, se detalló la forma de crear un proyecto y una aplicación en el entorno del proyecto de Django. Posteriormente, se realizó la configuración inicial y creación de vistas en el proyecto, esto para estructurar correctamente el entorno. 
+
+Por otro lado, es importante aprender a configurar las plantillas a utilizar en la aplicación (en el ejemplo llamado nombre_de_app), así como actualizar las referencias varias en el archivo settings.py, donde se define tanto la nueva app como la estructura de plantillas dentro del proyecto. Se hizo especial énfasis en la correcta configuración de las URLs tanto a nivel de proyecto como de aplicación, para que las vistas estén bien enlazadas y funcionen adecuadamente.
+
+Finalmente, para la creación de vistas dinámicas y la gestión de rutas dentro de una aplicación Django, se configuraron las URLS y Vistas del proyecto y la aplicación de Django, así como su explicación general, además de que estas pueden retornar páginas HTML con herencia y plantillas genéricas.
+
+- [Presentación: Laboratorio Clase 11 - 10 Octubre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%2011%20-%2010%20Octubre%202024.pdf)
+- [Diagrama de Estructuración Django: ](Recursos%20varios/DJango%20estructuración.pdf)
+- [Grabación: Laboratorio Clase 11 - 10 Octubre 2024](https://drive.google.com/file/d/16U3G63YSzQrpU2aKhe0RJLOB41Ve1OZA/view?usp=sharing)

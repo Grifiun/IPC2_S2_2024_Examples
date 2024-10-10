@@ -1,4 +1,5 @@
 from django.shortcuts import render
+from django.http import HttpResponseBadRequest
 import requests
 import xml.etree.ElementTree as ET
 import re
