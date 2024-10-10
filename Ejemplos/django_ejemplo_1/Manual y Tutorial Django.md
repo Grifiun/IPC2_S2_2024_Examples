@@ -54,11 +54,17 @@ Ejecutar Servidor
 ```bash
 python manage.py runserver
 ```
-![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/Inicio_servidor.png)
 
 ![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/runserver.png)
 
+Abriendo el navegador en el puerto indicado:
+
+![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/Django_runserver.png)
+
+En este punto, la carpeta tendrá la siguiente estructuración:
+
 ![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/carpetas_1.png)
+
 
 -------------------------------------------------------------------
 
