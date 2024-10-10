@@ -40,8 +40,8 @@ Migrate manage
 ```bash
 python manage.py migrate
 ```
+![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/creacion_django.png)
 
-[imagen](Ejemplos/django_ejemplo_1/imagenes_django/creacion_django.png)
 
 Creamos usuario administrador (datos ejemplo, configurar prudentemente)
 ```bash
@@ -54,11 +54,11 @@ Ejecutar Servidor
 ```bash
 python manage.py runserver
 ```
-[imagen](Ejemplos/django_ejemplo_1/imagenes_django/Inicio_servidor.png)
+![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/Inicio_servidor.png)
 
-[imagen](Ejemplos/django_ejemplo_1/imagenes_django/runserver.png)
+![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/runserver.png)
 
-[imagen](Ejemplos/django_ejemplo_1/imagenes_django/carpetas_1.png)
+![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/carpetas_1.png)
 
 -------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ Installed_apps [
 ]
 ```
 
-[imagen](Ejemplos/django_ejemplo_1/imagenes_django/config_app.png)
+![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/config_app.png)
 
 
 Configurar los templates de forma similar a:
@@ -96,7 +96,7 @@ TEMPLATES = [
 ]
 ```
 
-[imagen](Ejemplos/django_ejemplo_1/imagenes_django/config_templates_proyect.png)
+![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/config_templates_proyect.png)
 
 
 urls.py (project)
@@ -106,7 +106,7 @@ agregar:
 	path('', include("nombre_de_app.urls"))
 ```
 
-[imagen](Ejemplos/django_ejemplo_1/imagenes_django/config_url_proyect.png)
+![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/config_url_proyect.png)
 
 Creamos el archivo urls.py en la app y copiamos el siguiente código:
 
@@ -120,7 +120,7 @@ urlpatterns = [
 ]
 ```
 
-[imagen](Ejemplos/django_ejemplo_1/imagenes_django/config_url_app.png)
+![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/config_url_app.png)
 
 
 Views:
@@ -132,7 +132,7 @@ def viewName(request):
 	return render(request, "nombre_de_app/home.html", context)
 ```
 
-[imagen](Ejemplos/django_ejemplo_1/imagenes_django/config_app_views.png)
+![imagen](/Ejemplos/django_ejemplo_1/imagenes_django/config_app_views.png)
 
 Configurar los views propios
 
