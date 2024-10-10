@@ -311,3 +311,60 @@ Además, se les dio un ejemplo donde se usa una app de Node como frontend en el 
 
 - [Presentación: Laboratorio Clase 8 - 12 Septiembre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%208%20-%2012%20Septiembre%202024.pdf)
 - [Grabación: Laboratorio Clase 8 - 12 Septiembre 2024](https://drive.google.com/file/d/1_GcMKokkvcK-o0a0IyQ6fybPpVNt9O7_/view?usp=sharing)
+
+**Laboratorio Clase 9 - 19 Septiembre 2024 - Conferencia**
+
+***Conferencia Travesía por el Desarrollo Web: Desde el Frontend hasta las Nubes***
+
+Al inicio de la conferencia, se le dio lectura al CV del conferencista para validar su dominio. Luego se le dio la palabra.
+
+En esta travesía por el desarrollo web, hemos explorado desde los fundamentos de las arquitecturas de sistemas, desde la importancia de la separación del frontend y el backend, hasta las complejidades de las infraestructuras en la nube (en este caso, se exploró sobre la arquitectura por capas). Hemos aprendido sobre las tecnologías más utilizadas en el mercado actual y cómo pueden combinarse para crear aplicaciones web modernas y eficientes. 
+
+Además, hemos presenciado un ejemplo práctico de cómo implementar un programa frontend en un HTML estático y un backend en Node.js, desplegando ambos en un entorno de producción en Google Cloud Platform. Este ejemplo puso a prueba el uso de la nube y cómo aprovecharlo para escalar nuestras aplicaciones y hacerlas accesibles en cualquier momento y lugar. En resumen, esta conferencia nos ha brindado una visión completa del desarrollo web actual y nos ha mostrado el camino hacia el despliegue de las aplicaciones web de una forma sencilla y con herramientas a la vanguardia.
+
+- [Ejemplo despliegue](Conferencia%20Travesía%20por%20el%20Desarrollo%20Web%20Desde%20el%20Frontend%20hasta%20las%20Nubes/)
+- [Presentación: Laboratorio Clase 9 - 19 Septiembre 2024 - Conferencia](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%209%20-%2019%20Septiembre%202024%20-%20Conferencia%20Travesía%20por%20el%20Desarrollo%20Web%20Desde%20el%20Frontend%20hasta%20las%20Nubes.pdf)
+- [Grabación: Laboratorio Clase 9 - 19 Septiembre 2024 - Conferencia](https://drive.google.com/file/d/1-ds4hAWaRCbr2m-DAxM-IJBa014Rh83r/view?usp=sharing)
+
+**Laboratorio Clase 10 - 03 Octubre 2024**
+
+***Lectura Enunciado Práctica 3***
+
+Se dio lectura pertinente a la práctica 3, con fecha de entrega el día 17 de Octubre de 2024.  
+
+La descripción de la práctica es: "*Todas las soluciones que usted ha proporcionado a la agencia Super Autos GT han hecho que esta se sienta satisfecha con los resultados, es por esto mismo que ahora le piden un sistema de reportaje web utilizando Flask y Django. Flask para backend y Django para frontend. Se le pide que en la capa de cliente, el usuario sea capaz de cargar un archivo de tipo XML que contendrá la información de las ventas realizadas y, en base a esto, que igualmente reciba otro XML de respuesta que contendrá la información procesada para su fácil lectura y, que pueda visualizar gráficos*".
+
+***Lectura Enunciado Proyecto 3***
+
+Además, se leyó el enunciado del proyecto 3, este tendrá fecha de entrega el día 28 de Octubre de 2024, además es importante tomar en consideración las restricciones impuestas, así como las consideraciones importantes de penalizaciones.
+
+La descripción del proyecto indica: "*La empresa Tecnologías Chapinas, S.A. está desarrollando una herramienta que sea capaz de analizar contenido de redes sociales y establecer el sentimiento de los usuarios respecto a una empresa y los servicios que provee*.
+
+*La empresa Tecnologías Chapinas, S.A. ha creado una estrategia para establecer si un  mensaje tiene un sentimiento positivo, negativo o neutro a través de la creación de un  diccionario de datos que determine palabras que puedan calificar un mensaje como positivo o negativo, en caso de no tener palabras del diccionario de datos específico, o bien, que la cantidad de palabras con sentimientos positivos y negativos sean iguales, entonces, se considera que el mensaje es neutro*".
+
+***JSON, Expresiones Regulares, Peticiones HTTP Python***
+
+El contenido de la clase incluye la comprensión y el uso de las expresiones regulares en el lenguaje de programación Python, así como las peticiones HTTP con la librería request que permite la comunicación con diversos métodos de información, tales como JSON, XML, etc.
+
+
+***Introducción de Django***
+
+Por último, se dio una introducción al framework Django que el estudiante utilizará durante el transcurso de esta última parte del curso, en especial para la práctica y proyecto 3. Incluyendo instalación, pasos para crear un proyecto y cómo se estructura.
+
+- [Presentación: Laboratorio Clase 10 - 03 Octubre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%2010%20-%2003%20Octubre%202024.pdf)
+- [Grabación: Laboratorio Clase 10 - 03 Octubre 2024](https://drive.google.com/file/d/15Nl39LjUkxwsC9kzRcGVVuNa1Da_Z6ka/view?usp=sharing)
+
+
+**Laboratorio Clase 11 - 10 Octubre 2024**
+
+***Configuración y Creación de Vistas en Django***
+
+En esta clase se explicó la configuración de un entorno virtual y la instalación de Django. Además, se detalló la forma de crear un proyecto y una aplicación en el entorno del proyecto de Django. Posteriormente, se realizó la configuración inicial y creación de vistas en el proyecto, esto para estructurar correctamente el entorno. 
+
+Por otro lado, es importante aprender a configurar las plantillas a utilizar en la aplicación (en el ejemplo llamado nombre_de_app), así como actualizar las referencias varias en el archivo settings.py, donde se define tanto la nueva app como la estructura de plantillas dentro del proyecto. Se hizo especial énfasis en la correcta configuración de las URLs tanto a nivel de proyecto como de aplicación, para que las vistas estén bien enlazadas y funcionen adecuadamente.
+
+Finalmente, para la creación de vistas dinámicas y la gestión de rutas dentro de una aplicación Django, se configuraron las URLS y Vistas del proyecto y la aplicación de Django, así como su explicación general, además de que estas pueden retornar páginas HTML con herencia y plantillas genéricas.
+
+- [Presentación: Laboratorio Clase 11 - 10 Octubre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%2011%20-%2010%20Octubre%202024.pdf)
+- [Diagrama de Estructuración Django: ](Recursos%20varios/DJango%20estructuración.pdf)
+- [Grabación: Laboratorio Clase 11 - 10 Octubre 2024](https://drive.google.com/file/d/16U3G63YSzQrpU2aKhe0RJLOB41Ve1OZA/view?usp=sharing)
