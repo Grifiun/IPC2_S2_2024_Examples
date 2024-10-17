@@ -368,3 +368,12 @@ Finalmente, para la creación de vistas dinámicas y la gestión de rutas dentro
 - [Presentación: Laboratorio Clase 11 - 10 Octubre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%2011%20-%2010%20Octubre%202024.pdf)
 - [Diagrama de Estructuración Django: ](Recursos%20varios/DJango%20estructuración.pdf)
 - [Grabación: Laboratorio Clase 11 - 10 Octubre 2024](https://drive.google.com/file/d/16U3G63YSzQrpU2aKhe0RJLOB41Ve1OZA/view?usp=sharing)
+
+**Laboratorio Clase 12 - 17 Octubre 2024**
+
+***Configuración de Plantillas en Django***
+
+En la clase anterior, se configuró un proyecto de Django con todos los componentes importantes, incluyendo la configuración de URLs, vistas y plantillas (templates). No obstante, en esta clase se explicará detenidamente el funcionamiento sobre la herencia en las plantillas de Django, útil para reutilizar código y dar dinamismo a las páginas web. Finalmente, se aplicará lo aprendido mediante un ejemplo práctico en tiempo real.
+
+- [Presentación: Laboratorio Clase 12 - 17 Octubre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%2012%20-%2017%20Octubre%202024.pdf)
+- [Grabación: Laboratorio Clase 12 - 17 Octubre 2024](https://drive.google.com/file/d/1SOvLvIxL2ds8DFcej0QNcYlt-fq1LqXG/view?usp=sharing)
