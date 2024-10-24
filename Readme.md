@@ -377,3 +377,15 @@ En la clase anterior, se configuró un proyecto de Django con todos los componen
 
 - [Presentación: Laboratorio Clase 12 - 17 Octubre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%2012%20-%2017%20Octubre%202024.pdf)
 - [Grabación: Laboratorio Clase 12 - 17 Octubre 2024](https://drive.google.com/file/d/1SOvLvIxL2ds8DFcej0QNcYlt-fq1LqXG/view?usp=sharing)
+
+
+**Laboratorio Clase 13 - 24 Octubre 2024**
+
+***Docker: ventajas, funcionamiento, instalación y configuración para Flask***
+
+En el transcurso del laboratorio, se aprendieron habilidades respecto al lenguaje Python para el desarrollo de aplicaciones en backend y frontend, para los framework Flask y Django. No obstante, actualmente se requiere realizar despliegues de dichas aplicaciones. Por lo que aprender la tecnología de Docker es vital y por ello, se les indicó el funcionamiento, así como las diferencias y ventajas respecto a la virtualización.
+
+Por otro lado, se empezó a configurar un servidor en Flask siguiendo buenas prácticas de programación. Finalmente, se creó el archivo Dockerfile con las configuraciones para una imagen de Flask.
+
+- [Presentación: Laboratorio Clase 13 - 24 Octubre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%2013%20-%2024%20Octubre%202024.pdf)
+- [Grabación: Laboratorio Clase 13 - 24 Octubre 2024](https://drive.google.com/file/d/1E-mBPTHNE0gJuGEjTloZWIBnjgFsRn0s/view?usp=sharing)
