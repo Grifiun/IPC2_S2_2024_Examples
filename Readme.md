@@ -395,6 +395,9 @@ Por otro lado, se empezó a configurar un servidor en Flask siguiendo buenas pr�
 
 ***Docker-compose: ventajas, funcionamiento, utilidad y configuración para Flask***
 
-Para finalizar el contenido del curso mediante el manejo de Python, específicamente en los framework flask y django. Se dio la introducción hacia el despliegue de aplicaciones, utilizando la herramienta de contenedores Docker. No obstante, es complicado manejar de forma manual una gran cantidad de contenedores, por ello se utilizan herramientas de orquestación como Docker-compose. En esta clase se dio lectura del funcionamiento, ventajas, posibles desventajas que podría tener y los casos de uso.
+Para finalizar el contenido del curso sobre el manejo de Python, específicamente en los frameworks Flask y Django, se introdujo el despliegue de aplicaciones utilizando la herramienta de contenedores Docker. No obstante, manejar manualmente una gran cantidad de contenedores es complicado, por lo que se utilizan herramientas de orquestación como Docker Compose. 
 
-Finalmente, se dio un ejemplo donde se preparó un archivo de configuración docker-compose.yml para establecer 3 backends con la misma imagen: uno con "build" mediante la construcción y 2 mediante la imagen previamente subida a Dockerhub.
+En esta clase, se explicó el funcionamiento, las ventajas, las posibles desventajas y los casos de uso de Docker Compose. Finalmente, se presentó un ejemplo en el que se preparó un archivo de configuración docker-compose.yml para establecer tres backends con la misma imagen: uno mediante build y dos utilizando la imagen previamente subida a Docker Hub.
+
+- [Presentación: Laboratorio Clase 14 - 31 Octubre 2024](Presentaciones/IPC2%20S2%202024%20-%20Laboratorio%20Clase%2014%20-%2031%20Octubre%202024.pdf)
+- [Grabación: Laboratorio Clase 14 - 31 Octubre 2024](https://drive.google.com/file/d/1vuE02iMNCJza2kkM8HmCciO5AiFILceU/view?usp=sharing)
