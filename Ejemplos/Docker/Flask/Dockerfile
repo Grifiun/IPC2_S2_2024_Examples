@@ -16,9 +16,5 @@ COPY . .
 # Exponer el puerto 5000 para Flask
 EXPOSE 5000
 
-# Establecer la variable de entorno para Flask
-ENV FLASK_APP=app.py
-ENV FLASK_RUN_HOST=0.0.0.0
-
 # Comando para ejecutar la aplicación
-CMD ["flask", "run"]
+CMD ["python", "app.py"]

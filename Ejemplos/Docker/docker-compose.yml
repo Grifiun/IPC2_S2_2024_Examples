@@ -1,0 +1,17 @@
+version: '3'
+services:
+  backend-flask:
+    build: 
+      dockerfile: Dockerfile
+      context: ./Flask
+    ports:
+      - 5000:5000
+  backend-flask-1:    
+    image: grifiun/ejemplo-docker-compose:latest
+    ports:
+      - 5001:5000
+  backend-flask-2:
+    image: grifiun/ejemplo-docker-compose:latest
+    ports:
+      - 5002:5000
+  
